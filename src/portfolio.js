@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Jack McKew's Portfolio",
     type: "website",
-    url: "http://jackmckew.dev/cv",
+    url: "https://jackmckew.github.io/",
   },
 };
 
